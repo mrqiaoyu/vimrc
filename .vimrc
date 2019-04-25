@@ -10,4 +10,4 @@ imap jk <ESC>
 set noswapfile
 
 " Tab键为4
-set tabstop = 4
+set tabstop=4
