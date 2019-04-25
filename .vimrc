@@ -11,3 +11,7 @@ set noswapfile
 
 " Tab键为4
 set tabstop=4
+
+" ctrl+h l 分别在插入模式下左右移动
+imap <C-h> <ESC>i
+imap <C-l> <ESC>la
